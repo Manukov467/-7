@@ -1,0 +1,16 @@
+@media (max-width: 1220px) {
+	.box {
+		flex-wrap: wrap;
+		justify-content: center;
+	}
+	.box-right {
+		margin-top: 64px;
+		width: 560px;
+	}
+	.box-box p {
+		margin-bottom: 64px;
+	}
+	.box-img {
+		display: none;
+	}
+}
